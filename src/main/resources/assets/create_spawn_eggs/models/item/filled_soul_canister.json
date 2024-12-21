@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer2": "create_spawn_eggs:item/filled_soul_canister"
+  }
+}

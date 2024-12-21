@@ -1,0 +1,8 @@
+{
+  "parent": "item/template_spawn_egg",
+  "textures": {
+    "layer0": "create_spawn_eggs:item/spawn_egg",
+    "layer1": "create_spawn_eggs:item/spawn_egg_overlay",
+    "layer2": "create_spawn_eggs:item/filled_soul_canister"
+  }
+}

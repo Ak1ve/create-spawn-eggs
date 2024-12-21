@@ -1,0 +1,6 @@
+{
+  "parent": "item/template_spawn_egg",
+  "textures": {
+    "layer2": "create_spawn_eggs:item/mechanical_spawn_egg"
+  }
+}
